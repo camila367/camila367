@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil🇧🇷
 
-<!--
-**camila367/camila367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camila Mantovani Ferreira
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo na linguagem Javascript                                          
+- Utilizo esse espaço para minha organização e com compartilhamentodos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📪
+
+  camila.mantovani.ferreira@escola.pr.gov.br
+
+  @camilamantovaniferreira
+  
+  ![](https://tenor.com/pt-BR/view/naruto-นารูโตะ-ນາຣູໂຕະໃນລ່າງຄຸລາມະ-gif-27492515)
